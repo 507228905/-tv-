@@ -7,6 +7,9 @@
 //
 
 #import "AppDelegate.h"
+#import "TMNavViewController.h"
+#import "ViewController.h"
+#import "TMMainViewController.h"
 
 @interface AppDelegate ()
 
@@ -16,7 +19,9 @@
 
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
-    // Override point for customization after application launch.
+    self.window.backgroundColor = [UIColor whiteColor];
+    TMMainViewController * v = [TMMainViewController new];
+    self.window.rootViewController = v;
     return YES;
 }
 

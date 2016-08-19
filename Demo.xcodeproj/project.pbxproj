@@ -15,6 +15,20 @@
 		183896D61C8833E3009DCD20 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 183896D41C8833E3009DCD20 /* LaunchScreen.storyboard */; };
 		183896E11C8833E4009DCD20 /* DemoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 183896E01C8833E4009DCD20 /* DemoTests.m */; };
 		183896EC1C8833E4009DCD20 /* DemoUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 183896EB1C8833E4009DCD20 /* DemoUITests.m */; };
+		3727B7371C8FEE730099DC37 /* SecondViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3727B7351C8FEE730099DC37 /* SecondViewController.m */; };
+		3727B7381C8FEE730099DC37 /* SecondViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3727B7361C8FEE730099DC37 /* SecondViewController.xib */; };
+		3727B74A1C9037560099DC37 /* ThirdViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3727B7481C9037560099DC37 /* ThirdViewController.m */; };
+		3727B74B1C9037560099DC37 /* ThirdViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3727B7491C9037560099DC37 /* ThirdViewController.xib */; };
+		372B4EC41CB78E89008AD22F /* MeiViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 372B4EC21CB78E89008AD22F /* MeiViewController.m */; };
+		372B4EC51CB78E89008AD22F /* MeiViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 372B4EC31CB78E89008AD22F /* MeiViewController.xib */; };
+		3740261C1C995D6400D46946 /* left@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3740261B1C995D6400D46946 /* left@2x.png */; };
+		3772D3241CE30DC500603CD8 /* TMNavViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3772D3231CE30DC500603CD8 /* TMNavViewController.m */; };
+		37E0741F1C9AA82B00066B22 /* TMMainViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 37E0741D1C9AA82B00066B22 /* TMMainViewController.m */; };
+		37E074201C9AA82B00066B22 /* TMMainViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 37E0741E1C9AA82B00066B22 /* TMMainViewController.xib */; };
+		37E074221C9AADB100066B22 /* 2.png in Resources */ = {isa = PBXBuildFile; fileRef = 37E074211C9AADB100066B22 /* 2.png */; };
+		37E074261C9AAE4400066B22 /* contact@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 37E074231C9AAE4400066B22 /* contact@2x.png */; };
+		37E0742A1C9AAF0D00066B22 /* help@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 37E074291C9AAF0D00066B22 /* help@2x.png */; };
+		37E0742C1C9AB6EC00066B22 /* quanbao@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 37E0742B1C9AB6EC00066B22 /* quanbao@2x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +65,25 @@
 		183896E71C8833E4009DCD20 /* DemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DemoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		183896EB1C8833E4009DCD20 /* DemoUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DemoUITests.m; sourceTree = "<group>"; };
 		183896ED1C8833E4009DCD20 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3727B7341C8FEE730099DC37 /* SecondViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SecondViewController.h; sourceTree = "<group>"; };
+		3727B7351C8FEE730099DC37 /* SecondViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SecondViewController.m; sourceTree = "<group>"; };
+		3727B7361C8FEE730099DC37 /* SecondViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = SecondViewController.xib; sourceTree = "<group>"; };
+		3727B7471C9037560099DC37 /* ThirdViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ThirdViewController.h; sourceTree = "<group>"; };
+		3727B7481C9037560099DC37 /* ThirdViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ThirdViewController.m; sourceTree = "<group>"; };
+		3727B7491C9037560099DC37 /* ThirdViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ThirdViewController.xib; sourceTree = "<group>"; };
+		372B4EC11CB78E89008AD22F /* MeiViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MeiViewController.h; sourceTree = "<group>"; };
+		372B4EC21CB78E89008AD22F /* MeiViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MeiViewController.m; sourceTree = "<group>"; };
+		372B4EC31CB78E89008AD22F /* MeiViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = MeiViewController.xib; sourceTree = "<group>"; };
+		3740261B1C995D6400D46946 /* left@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "left@2x.png"; sourceTree = "<group>"; };
+		3772D3221CE30DC500603CD8 /* TMNavViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TMNavViewController.h; sourceTree = "<group>"; };
+		3772D3231CE30DC500603CD8 /* TMNavViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TMNavViewController.m; sourceTree = "<group>"; };
+		37E0741C1C9AA82B00066B22 /* TMMainViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TMMainViewController.h; sourceTree = "<group>"; };
+		37E0741D1C9AA82B00066B22 /* TMMainViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TMMainViewController.m; sourceTree = "<group>"; };
+		37E0741E1C9AA82B00066B22 /* TMMainViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = TMMainViewController.xib; sourceTree = "<group>"; };
+		37E074211C9AADB100066B22 /* 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 2.png; sourceTree = "<group>"; };
+		37E074231C9AAE4400066B22 /* contact@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "contact@2x.png"; sourceTree = "<group>"; };
+		37E074291C9AAF0D00066B22 /* help@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "help@2x.png"; sourceTree = "<group>"; };
+		37E0742B1C9AB6EC00066B22 /* quanbao@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "quanbao@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,10 +134,23 @@
 		183896C51C8833E3009DCD20 /* Demo */ = {
 			isa = PBXGroup;
 			children = (
+				3772D3211CE30DC500603CD8 /* TMNavigationController */,
 				183896C91C8833E3009DCD20 /* AppDelegate.h */,
 				183896CA1C8833E3009DCD20 /* AppDelegate.m */,
+				37E0741C1C9AA82B00066B22 /* TMMainViewController.h */,
+				37E0741D1C9AA82B00066B22 /* TMMainViewController.m */,
+				37E0741E1C9AA82B00066B22 /* TMMainViewController.xib */,
 				183896CC1C8833E3009DCD20 /* ViewController.h */,
 				183896CD1C8833E3009DCD20 /* ViewController.m */,
+				3727B7341C8FEE730099DC37 /* SecondViewController.h */,
+				3727B7351C8FEE730099DC37 /* SecondViewController.m */,
+				3727B7361C8FEE730099DC37 /* SecondViewController.xib */,
+				3727B7471C9037560099DC37 /* ThirdViewController.h */,
+				3727B7481C9037560099DC37 /* ThirdViewController.m */,
+				3727B7491C9037560099DC37 /* ThirdViewController.xib */,
+				372B4EC11CB78E89008AD22F /* MeiViewController.h */,
+				372B4EC21CB78E89008AD22F /* MeiViewController.m */,
+				372B4EC31CB78E89008AD22F /* MeiViewController.xib */,
 				183896CF1C8833E3009DCD20 /* Main.storyboard */,
 				183896D21C8833E3009DCD20 /* Assets.xcassets */,
 				183896D41C8833E3009DCD20 /* LaunchScreen.storyboard */,
@@ -117,6 +163,11 @@
 		183896C61C8833E3009DCD20 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				37E074291C9AAF0D00066B22 /* help@2x.png */,
+				37E0742B1C9AB6EC00066B22 /* quanbao@2x.png */,
+				37E074231C9AAE4400066B22 /* contact@2x.png */,
+				3740261B1C995D6400D46946 /* left@2x.png */,
+				37E074211C9AADB100066B22 /* 2.png */,
 				183896C71C8833E3009DCD20 /* main.m */,
 			);
 			name = "Supporting Files";
@@ -138,6 +189,15 @@
 				183896ED1C8833E4009DCD20 /* Info.plist */,
 			);
 			path = DemoUITests;
+			sourceTree = "<group>";
+		};
+		3772D3211CE30DC500603CD8 /* TMNavigationController */ = {
+			isa = PBXGroup;
+			children = (
+				3772D3221CE30DC500603CD8 /* TMNavViewController.h */,
+				3772D3231CE30DC500603CD8 /* TMNavViewController.m */,
+			);
+			path = TMNavigationController;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -243,9 +303,18 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				372B4EC51CB78E89008AD22F /* MeiViewController.xib in Resources */,
 				183896D61C8833E3009DCD20 /* LaunchScreen.storyboard in Resources */,
+				37E074221C9AADB100066B22 /* 2.png in Resources */,
+				37E0742C1C9AB6EC00066B22 /* quanbao@2x.png in Resources */,
+				3727B74B1C9037560099DC37 /* ThirdViewController.xib in Resources */,
 				183896D31C8833E3009DCD20 /* Assets.xcassets in Resources */,
+				37E0742A1C9AAF0D00066B22 /* help@2x.png in Resources */,
+				3740261C1C995D6400D46946 /* left@2x.png in Resources */,
+				37E074201C9AA82B00066B22 /* TMMainViewController.xib in Resources */,
 				183896D11C8833E3009DCD20 /* Main.storyboard in Resources */,
+				3727B7381C8FEE730099DC37 /* SecondViewController.xib in Resources */,
+				37E074261C9AAE4400066B22 /* contact@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -270,7 +339,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3727B7371C8FEE730099DC37 /* SecondViewController.m in Sources */,
+				37E0741F1C9AA82B00066B22 /* TMMainViewController.m in Sources */,
 				183896CE1C8833E3009DCD20 /* ViewController.m in Sources */,
+				3727B74A1C9037560099DC37 /* ThirdViewController.m in Sources */,
+				372B4EC41CB78E89008AD22F /* MeiViewController.m in Sources */,
+				3772D3241CE30DC500603CD8 /* TMNavViewController.m in Sources */,
 				183896CB1C8833E3009DCD20 /* AppDelegate.m in Sources */,
 				183896C81C8833E3009DCD20 /* main.m in Sources */,
 			);
@@ -498,6 +572,7 @@
 				183896F21C8833E4009DCD20 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		183896F31C8833E4009DCD20 /* Build configuration list for PBXNativeTarget "DemoTests" */ = {
 			isa = XCConfigurationList;
@@ -506,6 +581,7 @@
 				183896F51C8833E4009DCD20 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		183896F61C8833E4009DCD20 /* Build configuration list for PBXNativeTarget "DemoUITests" */ = {
 			isa = XCConfigurationList;
@@ -514,6 +590,7 @@
 				183896F81C8833E4009DCD20 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
